@@ -4,7 +4,7 @@ import tailwind from "@tailwindcss/vite";
 import path from "path";
 
 export default defineConfig({
-    base: '/Fit-Core/', 
+    base: '/FitCore/', 
   plugins: [
     react({
       babel: {
