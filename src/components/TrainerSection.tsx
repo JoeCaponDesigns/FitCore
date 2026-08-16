@@ -17,7 +17,7 @@ export default function TrainerSection() {
             className="relative"
           >
             <div className="relative aspect-4/5 rounded-2xl overflow-hidden">
-              <img src="professional-fitness-trainer-coaching-smiling-conf.jpg" alt="Professional trainer" className="w-full h-full object-cover" />
+              <img src="public/graham-mansfield-9faBzIlnV14-unsplash.jpg" alt="Professional trainer" className="w-full h-full object-cover" />
               <div className="absolute inset-0 bg-linear-to-t from-background/80 via-transparent to-transparent" />
             </div>
             <motion.div

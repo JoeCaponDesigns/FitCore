@@ -8,7 +8,7 @@ export default function HeroSection() {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0 z-0">
-        <img src="athletic-person-working-out-in-modern-gym-with-dra.jpg" alt="Fitness training" className="w-full h-full object-cover" />
+        <img src="jonathan-borba-lrQPTQs7nQQ-unsplash (1).webp" alt="Fitness training" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-linear-to-r from-background/95 via-background/70 to-background/30" />
       </div>
 
