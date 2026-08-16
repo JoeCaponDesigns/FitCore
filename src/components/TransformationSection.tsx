@@ -8,17 +8,17 @@ const transformations = [
   {
     name: "Sarah Johnson",
     result: "Lost 35lbs in 4 months",
-    image: "public/taylor-daugherty-h1jFtAgDJbI-unsplash.jpg",
+    image: "fitcore-client-1.jpg",
   },
   {
     name: "Mike Chen",
     result: "Gained 20lbs muscle",
-    image: "public/aaron-brogden-9y4MaTz2Js0-unsplash.jpg",
+    image: "fitcore-client-2.jpg",
   },
   {
     name: "Emma Davis",
     result: "Completed first marathon",
-    image: "public/olek-buzunov-0pIL4dsbaWc-unsplash.jpg",
+    image: "fitcore-client-3.jpg",
   },
 ]
 
